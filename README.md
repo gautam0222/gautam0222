@@ -188,19 +188,6 @@ Languages:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=gautam0222](https://streak-stats.demolab.com/?user=gautam0222
-)&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=3F8FFF&currStreakLabel=3F8FFF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautam0222&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=FFFFFF" width="100%"/>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔬 Exploring Advanced **Agentic AI** architectures
