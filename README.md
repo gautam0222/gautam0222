@@ -191,14 +191,7 @@ Languages:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gautam0222
-&theme=tokyonight
-&hide_border=true
-&background=0D1117
-&ring=3F8FFF
-&fire=3F8FFF
-&currStreakLabel=3F8FFF" 
-alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=gautam0222" />
 </div>
 
 
