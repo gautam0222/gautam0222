@@ -191,9 +191,16 @@ Languages:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautam0222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam0222&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF"/>
+  <img src="https://streak-stats.demolab.com/?user=gautam0222
+&theme=tokyonight
+&hide_border=true
+&background=0D1117
+&ring=3F8FFF
+&fire=3F8FFF
+&currStreakLabel=3F8FFF" 
+alt="GitHub Streak"/>
 </div>
+
 
 <div align="center">
   <img src="[https://github-readme-streak-stats.herokuapp.com/?user=gautam0222](https://streak-stats.demolab.com/?user=gautam0222
