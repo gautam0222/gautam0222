@@ -102,7 +102,7 @@ class GautamSukhani:
 
 ## 🎯 Featured Projects
 
-### 🏥 [Doctor Admin App](https://github.com/gautam0222) 
+### 🏥 [Doctor Admin App](https://github.com/) 
 **Flutter • Firebase • Figma** | *Dec 2024 - Jan 2025*
 
 Mobile application for Reverse Medical Tourism with admin access control and real-time integrations
@@ -110,7 +110,7 @@ Mobile application for Reverse Medical Tourism with admin access control and rea
 - 🎨 Designed intuitive UI/UX using Figma
 - 🔐 Managed full backend pipeline for authentication and data management
 
-### 🌍 [AQI Based Health Advisory System](https://github.com/gautam0222)
+### 🌍 [AQI Based Health Advisory System](https://github.com/)
 **LLM • GenAI • PowerBI • Streamlit** | *July 2024 - Nov 2024*
 
 AI-powered real-time air quality monitoring and personalized health advisory platform
@@ -118,7 +118,7 @@ AI-powered real-time air quality monitoring and personalized health advisory pla
 - 🤖 Implemented LLM-based personalized health recommendations
 - 📊 Deployed interactive Streamlit dashboard with visual analytics
 
-### 🤖 [AutoML Platform](https://github.com/gautam0222)
+### 🤖 [AutoML Platform](https://github.com/)
 **Flask • Machine Learning • NLP • Agentic AI** | *Jan 2025 - Mar 2025*
 
 Intelligent AutoML system with automated preprocessing and model selection
@@ -126,7 +126,7 @@ Intelligent AutoML system with automated preprocessing and model selection
 - 📈 Built comprehensive model evaluation comparing accuracy, precision, recall, F1-score
 - 🧠 Generated intelligent recommendations based on dataset characteristics
 
-### ⛓️ [Blockchain Event Management](https://github.com/gautam0222)
+### ⛓️ [Blockchain Event Management](https://github.com/)
 **Blockchain • MongoDB • FastAPI** | *Mar 2024 - Sept 2024*
 
 Decentralized ticketing system preventing fraud and ensuring authenticity
@@ -196,7 +196,8 @@ Languages:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam0222&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=3F8FFF&currStreakLabel=3F8FFF" alt="GitHub Streak"/>
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=gautam0222](https://streak-stats.demolab.com/?user=gautam0222
+)&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=3F8FFF&currStreakLabel=3F8FFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
