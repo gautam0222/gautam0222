@@ -30,7 +30,7 @@ class GautamSukhani:
         self.education = {
             "degree": "B.Tech in Computer Science (Honours in Data Science)",
             "university": "Symbiosis Institute of Technology, Nagpur",
-            "cgpa": 8.60,
+            "cgpa": 8.40,
             "expected_graduation": 2026
         }
         self.current_focus = [
