@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gautam%20Sukhani&fontSize=42&fontAlignY=30&desc=Generative%20AI%20%7C%20ML%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=51&descSize=18" width="100%"/>
 </div>
-
+<div></div>
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=600&lines=Database+Engineer;Cloud+Specialist;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Data+Science+Enthusiast)](https://git.io/typing-svg)
