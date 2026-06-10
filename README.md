@@ -1,225 +1,305 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gautam%20Sukhani&fontSize=42&fontAlignY=30&desc=Generative%20AI%20%7C%20ML%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=51&descSize=18" width="100%"/>
-</div>
-<div></div>
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=600&lines=Database+Engineer;Cloud+Specialist;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Data+Science+Enthusiast)](https://git.io/typing-svg)
-  
-</div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-sukhani-7751ba1b9)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautam0222)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhanigautam2@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918669180589)
-  ![Profile Views](https://komarev.com/ghpvc/?username=gautam0222&color=blueviolet&style=for-the-badge)
-  
+<!-- CAPSULE RENDER HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=220&section=header&text=Gautam%20Sukhani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20I%20shouldn't%20know%20how%20to%20build%20yet&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- TYPING SVG - THE HOOK -->
+<a href="https://github.com/gautam0222">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+in+the+making+%F0%9F%A7%A0;RAG+%7C+LLMs+%7C+Vector+DBs+%7C+Full-Stack;60+hrs%2Fweek+at+Ceinsys+Tech+AI+%F0%9F%94%A5;Chrome+Extension+Publisher+%F0%9F%8C%90;IEEE+Research+Author+%F0%9F%93%84;Cricket+%7C+Badminton+%7C+Code+%F0%9F%8F%8F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- VISITOR COUNTER + PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=gautam0222&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20RAG-00b4d8?style=for-the-badge&logo=openai&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ABOUT ME — PERSONALITY FIRST -->
+<div align="center">
 
-```python
-class GautamSukhani:
-    def __init__(self):
-        self.role = "AI/ML Engineer & Full Stack Developer"
-        self.location = "Nagpur, Maharashtra, India"
-        self.education = {
-            "degree": "B.Tech in Computer Science (Honours in Data Science)",
-            "university": "Symbiosis Institute of Technology, Nagpur",
-            "cgpa": 8.40,
-            "expected_graduation": 2026
-        }
-        self.current_focus = [
-            "Generative AI & LLMs",
-            "Agentic AI Systems",
-            "Full Stack Development",
-            "Cloud Architecture"
-        ]
-        self.passion = "Building AI-powered solutions that solve real-world problems"
-    
-    def get_expertise(self):
-        return {
-            "AI/ML": ["Deep Learning", "NLP", "GenAI", "Computer Vision"],
-            "Development": ["Full Stack", "Mobile Apps", "APIs", "Microservices"],
-            "Cloud & DevOps": ["AWS", "Firebase", "Docker", "CI/CD"],
-            "Blockchain": ["Smart Contracts", "Decentralized Systems"]
-        }
+## `> whoami`
+
+</div>
+
+```
+Name     : Gautam Sukhani
+Location : Nagpur → Anywhere the code takes me
+Stack    : AI/ML • RAG • LLMs • Full-Stack • Cloud
+Currently: Building MEG-NXT @ Ceinsys Tech AI (60hrs/week 🔥)
+Status   : Final year B.Tech CSE @ Symbiosis Institute of Technology
+Fun fact : Business-background kid who fell into code in high school
+           and never climbed back out
 ```
 
-## 🚀 Professional Experience
-
-**Technical Support Intern** @ Kara Foundation Pvt. Ltd. *(Aug 2024 - Nov 2024)*
-- 🔍 Conducted OSINT research on dark web marketplaces, compiling analytical reports for law enforcement
-- 👥 Led cross-functional teams of 20+ colleagues on critical projects
-- 📊 Collaborated with Nagpur Commissioner on drug case seminars
-- 🎯 Spearheaded social impact initiatives reaching 200+ children
+> *"I came from a business background, tier-3 college, no idea about entrance exams — and built Chrome extensions, shipped apps, published IEEE research, and won a hackathon anyway. The compiler doesn't care about your college rank."*
 
 ---
 
-## 💻 Tech Stack
+<!-- TECH STACK — VISUAL SKILL BADGES -->
+<div align="center">
 
-### Languages
+## ⚡ Arsenal
+
+### 🧠 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=natural-language-processing&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00B4D8?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-8A2BE2?style=for-the-badge&logo=buffer&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-Embeddings-FF4B4B?style=for-the-badge&logo=pinecone&logoColor=white)
 
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🌐 Full-Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+### 🗄️ Data & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00B4D8?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🎯 Featured Projects
-
-### 🏥 [Doctor Admin App](https://github.com/) 
-**Flutter • Firebase • Figma** | *Dec 2024 - Jan 2025*
-
-Mobile application for Reverse Medical Tourism with admin access control and real-time integrations
-- 📱 Built complete `.apk` with Firebase Auth, Firestore & push notifications
-- 🎨 Designed intuitive UI/UX using Figma
-- 🔐 Managed full backend pipeline for authentication and data management
-
-### 🌍 [AQI Based Health Advisory System](https://github.com/)
-**LLM • GenAI • PowerBI • Streamlit** | *July 2024 - Nov 2024*
-
-AI-powered real-time air quality monitoring and personalized health advisory platform
-- 🔍 Integrated CPCB AQI APIs for nationwide real-time data
-- 🤖 Implemented LLM-based personalized health recommendations
-- 📊 Deployed interactive Streamlit dashboard with visual analytics
-
-### 🤖 [AutoML Platform](https://github.com/)
-**Flask • Machine Learning • NLP • Agentic AI** | *Jan 2025 - Mar 2025*
-
-Intelligent AutoML system with automated preprocessing and model selection
-- ⚙️ Automated sentiment analysis pipeline with TF-IDF and lemmatization
-- 📈 Built comprehensive model evaluation comparing accuracy, precision, recall, F1-score
-- 🧠 Generated intelligent recommendations based on dataset characteristics
-
-### ⛓️ [Blockchain Event Management](https://github.com/)
-**Blockchain • MongoDB • FastAPI** | *Mar 2024 - Sept 2024*
-
-Decentralized ticketing system preventing fraud and ensuring authenticity
-- 🔒 Implemented cryptographic hash validation for ticket ownership
-- 💾 Built FastAPI backend with MongoDB integration
-- ✅ Conducted comprehensive security testing
+</div>
 
 ---
 
-## 📜 Certifications
+<!-- SHOWCASE PROJECTS — NOT BORING LIST, SHORT PUNCHY DESCRIPTIONS -->
+<div align="center">
 
+## 🚀 Things I've Shipped
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Open Context</h3>
+      <p><code>RAG · LangGraph · React · TypeScript · SQLite</code></p>
+      <p>Full-stack AI knowledge system with semantic search. <strong>35% better accuracy</strong> via embedding-based retrieval. Processes <strong>10k+ documents</strong> for real-time indexing. Comes with a browser extension to capture the web.</p>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>🏥 Doctor Admin App</h3>
+      <p><code>Flutter · Firebase · Figma</code></p>
+      <p>Solo-built mobile app for a Bangalore-based startup doing Reverse Medical Tourism. Integrated Auth, Firestore, real-time push notifications — full backend pipeline shipped. Live on Play Store.</p>
+      <img src="https://img.shields.io/badge/Status-Shipped-00b4d8?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌫️ AQI Health Advisory Engine</h3>
+      <p><code>LLM · MLOps · Streamlit · CPCB APIs</code></p>
+      <p>Real-time air quality monitoring across India + LLM-powered personalized health advisories based on AQI & user risk profiles. Full dashboard with chatbot interface.</p>
+      <img src="https://img.shields.io/badge/Status-Deployed-orange?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3>🤖 AutoML Pipeline</h3>
+      <p><code>Flask · NLP · TF-IDF · MySQL</code></p>
+      <p>Automated ML pipeline that preprocesses sentiment datasets, evaluates models on precision/recall/F1, and recommends the optimal model + preprocessing combo. No ML PhD required.</p>
+      <img src="https://img.shields.io/badge/Status-Complete-blueviolet?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- PUBLISHED WORK — THE WOW FACTORS -->
+<div align="center">
+
+## 🏆 The Flex Wall
+
+</div>
+
+<div align="center">
+
+| 🎯 Achievement | 📌 Details |
+|:---|:---|
+| 🐍 Chrome/Edge Extension Author | Published **ByteGuard** & **TraceIt** — live, real users |
+| 📱 Play Store Developer | **WalletWarp** — personal finance app tracking expenses, SIPs & splits |
+| 📄 IEEE Research Author | ML paper published at IEEE conference (2024) |
+| 🥇 Hackathon Winner | AI-Based Disaster Resource Planner (2023) |
+| 🎓 2× Merit Scholarship | Top academic performer at SIT, two consecutive years |
+| 🔐 ServiceNow Certified | CSA + CAD certified (2025) — both in one shot |
+| ☁️ AWS Certified | Cloud Practitioner + Cloud Security Foundations |
+| 💻 150+ LeetCode Problems | [Check it out →](https://leetcode.com/u/EuzXnztXui/) |
+| 🏏 Institute-Level Athlete | Cricket, Badminton & Dodgeball — team captain energy |
+| 🔍 OSINT Investigator | Dark web marketplace investigations with Nagpur Police (COP) |
+
+</div>
+
+---
+
+<!-- CURRENTLY BLOCK — PERSONALITY -->
+<div align="center">
+
+## 📡 Currently Transmitting...
+
+</div>
+
+```python
+class Gautam:
+    def __init__(self):
+        self.role        = "AI Intern @ Ceinsys Tech AI (MEG-NXT)"
+        self.hours_week  = 60  # yes, seriously
+        self.building    = ["Open Context", "whatever I think of at 2am"]
+        self.obsessed_with = ["RAG architecture", "LLM internals", "how brains ≈ transformers"]
+        self.currently_learning = ["Advanced RAG patterns", "Agentic workflows", "MLOps at scale"]
+        self.open_to    = "Roles in AI/ML, Backend, Full-Stack — bring the hard problems"
+
+    def ask_me_about(self):
+        return ["AI", "RAG", "Vector DBs", "Cricket", "Extensions", "Startup life"]
+
+    def contact(self):
+        return "sukhanigautam2@gmail.com"
+```
+
+---
+
+<!-- GITHUB STATS — THE TRIPLE CARD SETUP -->
+<div align="center">
+
+## 📊 By the Numbers
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautam0222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam0222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam0222&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=888888" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- GITHUB TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=gautam0222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION — THE CROWD PLEASER -->
+<div align="center">
+
+## 🐍 Watch Me Eat My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gautam0222/gautam0222/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gautam0222/gautam0222/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gautam0222/gautam0222/output/github-contribution-grid-snake.svg">
+</picture>
+
+> *Set this up with the snake workflow below — 5 minutes, instant wow.*
+
+</div>
+
+---
+
+<!-- CERTIFICATIONS BADGES -->
+<div align="center">
+
+## 📜 Certified Human
+
+![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-CSA%20Certified-00B4D8?style=for-the-badge&logo=servicenow&logoColor=white)
+![ServiceNow CAD](https://img.shields.io/badge/ServiceNow-CAD%20Certified-0a3d62?style=for-the-badge&logo=servicenow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Security](https://img.shields.io/badge/AWS-Cloud%20Security-FF4B4B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Java](https://img.shields.io/badge/Oracle-Java%20Foundation-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle-Database%20Foundation-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-System%20Admin-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![GCP](https://img.shields.io/badge/Google-Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+<!-- CONNECT — CLEAN & MINIMAL -->
+<div align="center">
+
+## 🌐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-sukhani-7751ba1b9)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautam0222)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/EuzXnztXui/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://gautam-sukhani.aptifolio.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhanigautam2@gmail.com)
+
+<br/>
+
+*Open to internships, collabs, freelance, and absolutely unhinged side projects.*
+
+</div>
+
+---
+
+<!-- SNAKE SETUP INSTRUCTIONS FOR GAUTAM -->
 <details>
-<summary><b>Click to expand certifications</b></summary>
+<summary>⚙️ <strong>Setup Instructions — Activate the Snake Animation</strong></summary>
 
-### ServiceNow
-- ✅ Certified System Administrator (CSA)
-- ✅ Certified Application Developer (CAD)
+### Step 1: Create the GitHub Actions workflow
 
-### AWS & Cloud Computing
-- ☁️ AWS Cloud Practitioner
-- 🔐 AWS Cloud Security Foundations
-- 🌐 Google Cloud Platform
-- 🤖 AWS GenAI Certification
+In your `gautam0222` repo, create `.github/workflows/snake.yml`:
 
-### Oracle
-- ☕ Java Foundation
-- 💾 Database Foundation
+```yaml
+name: Generate Snake Animation
 
-### Red Hat
-- 🐧 RH124 - Red Hat System Administration
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:
 
-### Additional
-- 📊 Infosys Springboard: Big Data
-- 💡 NPTEL: Design Thinking, Organizational Behaviour
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### Step 2: Enable GitHub Actions permissions
+Go to your repo → **Settings → Actions → General → Workflow permissions** → select **Read and write permissions**
+
+### Step 3: Run the workflow once manually
+Go to **Actions → Generate Snake Animation → Run workflow**
+
+That's it. 🐍
 
 </details>
 
 ---
 
-## 🏆 Achievements
-
-```yaml
-Technical Excellence:
-  - 🥇 Hackathon Winner: AI-Based Disaster Resource Planner (2023)
-  - 📝 Published ML Research Paper in International Conference (2024)
-  - 🎓 2x Merit Scholarship Recipient for Academic Excellence
-  
-Leadership:
-  - 👥 Led teams of 20+ members on multiple projects
-  - 🏏 Sports Team Captain: Cricket, Badminton, Dodgeball
-  - 🎮 Game Development: Created Mario Game on Unreal Engine 5
-  
-Languages:
-  - 🇬🇧 English (Professional)
-  - 🇮🇳 Hindi (Native)
-  - 🇩🇪 German (Learning)
-  - 👥 Marwadi (Native)
-```
-
----
-
-## 🎯 Current Focus
-
-- 🔬 Exploring Advanced **Agentic AI** architectures
-- 🚀 Building production-ready **GenAI** applications
-- ☁️ Mastering **Cloud Architecture** (AWS, GCP)
-- 🤝 Contributing to **Open Source** projects
-- 📚 Preparing for **Product-Based Company** interviews
-
----
-
-## 📬 Let's Connect!
-
 <div align="center">
-  
-  ### I'm always open to interesting conversations and collaboration opportunities!
-  
-  [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-sukhani-7751ba1b9)
-  [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhanigautam2@gmail.com)
-  [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautam0222)
-  
-  ### 💼 Open to Full-Time Opportunities | 🎯 Actively Seeking: AI/ML Engineer, Full Stack Developer Roles
-  
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1117&height=120&section=footer" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+*Built from scratch. Business background. Tier-3 college. Zero excuses.* 🚀
 
----
-
-<div align="center">
-  <sub>⭐️ From <a href="https://github.com/gautam0222">gautam0222</a> | Last Updated: January 2025</sub>
 </div>
